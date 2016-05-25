@@ -9,7 +9,7 @@ This will perhaps be a later version.
 
 ### For Linux
 ```shell
-$ cd $HOME/.config/sublime_text_[23]/Packages && git clone https://github.com/cab105/fetchurl.git
+$ cd $HOME/.config/sublime-text-[23]/Packages && git clone https://github.com/cab105/fetchurl.git
 ```
 
 ### For MacOS X
